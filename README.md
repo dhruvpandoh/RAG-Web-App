@@ -102,18 +102,8 @@ python app/gradio_ui.py
 Fine-tuning: Enhance the T5 model with additional domain-specific instruction datasets.
 Interactive UI: Add more interactivity and predefined questions for ease of use.
 Scalability: Expand the system to handle larger datasets and more complex queries.
-Contributors
-
-Member 1 – Aryan Donde
 
 
-Github: https://github.com/ARDA7787
-
-Huggingface: https://huggingface.co/ArmaanDhande
-
-Member 2 – Dhruv Pandoh 
-
-Github: https://github.com/dhruvpandoh
 
 ## Docker Setup
 
