@@ -56,7 +56,7 @@ pip install -r app/requirements.txt
 Create a .env file in the project root and add the following:
 
 ```bash
-MONGO_URI=mongodb+srv://and8995:Aniks777@cluster0.4voet.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://4voet.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 QDRANT_URL="https://fc94b6ab-f5e6-4b45-8e7c-51ed48367a37.us-east4-0.gcp.cloud.qdrant.io:6333"
 QDRANT_API_KEY=rzwHZa71bmoNZzJ2YlEvuwWoH8-2WifxSLywPqZc-o8zkaKilb3z1w
 ```
