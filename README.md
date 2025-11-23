@@ -1,4 +1,4 @@
-# RAG System for ROS2 Subdomains
+# RAG Web App for ROS2 Subdomains
 
 ## Overview
 
