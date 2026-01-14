@@ -42,7 +42,7 @@ The system combines retrieval-based and generation-based approaches to answer do
 ### 2. Clone the Repository
 
 ```bash
-!git clone https://github.com/ARDA7787/rag_model.git
+!git clone https://github.com/dhruvpandoh/RAG-WEB-APP.git
 cd rag_model
 ```
 
