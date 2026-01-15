@@ -42,7 +42,7 @@ The system combines retrieval-based and generation-based approaches to answer do
 ### 2. Clone the Repository
 
 ```bash
-!git clone https://github.com/dhruvpandoh/RAG-WEB-APP.git
+git clone https://github.com/dhruvpandoh/RAG-Web-App.git
 cd rag_model
 ```
 
@@ -56,9 +56,9 @@ pip install -r app/requirements.txt
 Create a .env file in the project root and add the following:
 
 ```bash
-MONGO_URI=mongodb+srv://4voet.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-QDRANT_URL="https://fc94b6ab-f5e6-4b45-8e7c-51ed48367a37.us-east4-0.gcp.cloud.qdrant.io:6333"
-QDRANT_API_KEY=rzwHZa71bmoNZzJ2YlEvuwWoH8-2WifxSLywPqZc-o8zkaKilb3z1w
+MONGO_URI=<your_mongodb_uri>
+QDRANT_URL=<your_qdrant_url>
+QDRANT_API_KEY=<your_qdrant_api_key>
 ```
 5. Run the ETL Pipeline
 
