@@ -1,7 +1,7 @@
 torch
 transformers
 uvicorn
-fastapi
+fastapi 
 pymongo
 qdrant-client
 clearml
@@ -11,5 +11,5 @@ beautifulsoup4
 youtube_transcript_api
 tenacity
 tqdm
-lxml
+lxml 
 sentencepiece
